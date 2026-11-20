@@ -1,0 +1,34 @@
+{
+ "region": "서울 강북구 미아동",
+ "nameEn": "Sungshin Women's University Unjeong Green Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 336,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SKUNIV",
+   "campus": "서경대학교",
+   "km": 2.3
+  },
+  {
+   "code": "DUKSUNG",
+   "campus": "덕성여자대학교 쌍문캠퍼스",
+   "km": 2.3
+  },
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 2.4
+  },
+  {
+   "code": "KW",
+   "campus": "광운대학교",
+   "km": 3.0
+  },
+  {
+   "code": "DONGDUK",
+   "campus": "동덕여자대학교",
+   "km": 3.1
+  }
+ ]
+}
